@@ -9,6 +9,8 @@ My Contributions
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirafatnassi&layout=compact&theme=dark&hide_border=true" />
 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/amirafatnassi/repos?time_range=one_year&loc_metric=changed&theme=dark)](https://githubtrends.io)
+
 👨‍💻 Programming languages
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
